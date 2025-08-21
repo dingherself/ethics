@@ -1,0 +1,100 @@
+---
+layout: table
+title: Schedule
+group: navigation
+order: 10
+date: 2025-08-19
+---
+
+<h1>Schedule</h1>
+
+<p style="font-size: 0.95rem; font-style: italic;">[Under construction]</p>
+  
+<p class="mb-3" style="font-size: 0.95rem; font-style: italic;">Last updated: {{ page.date | date: "%a, %b %e, %Y" }}</p>
+
+<div class="table-responsive">
+  <table class="table" id="scheduleTable">
+    {% for row in site.data.schedule %}
+      {% if forloop.first %}
+        <thead>
+            <tr>
+            {% for pair in row %}
+              <th scope="col">{{ pair[0] }}</th>
+            {% endfor %}
+            </tr>
+          </thead>
+        {% endif %}
+
+        {% tablerow pair in row %}
+          {{ pair[1] }}
+        {% endtablerow %}
+    {% endfor %}
+  </table>
+
+<script>
+  moment.updateLocale('en', { weekdaysMin: 'U_M_T_W_R_F_S'.split('_') });
+  moment().format('dd');
+  var groupColumn = 1;
+  new DataTable('#scheduleTable', {
+    responsive: true,
+    paging: false,
+    columnDefs: [
+      {
+        targets: 0,
+        render: DataTable.render.datetime('M/D (dd)'),
+        className: 'dt-head-left dt-body-left',
+        width: '100px'
+      },
+      {
+        targets: -1,
+        className: 'dt-head-left dt-body-left',
+        width: '25%'
+      },
+      {
+        targets: groupColumn,
+        visible: false
+      }
+    ],
+    drawCallback: function (settings) {
+        var api = this.api();
+        var rows = api.rows({ page: 'current' }).nodes();
+        var last = null;
+ 
+        api.column(groupColumn, { page: 'current' })
+            .data()
+            .each(function (group, i) {
+                if (last !== group) {
+                    $(rows)
+                        .eq(i)
+                        .before(
+                            '<tr class="group""><td colspan="5"><strong>' +
+                                group +
+                                '</strong></td></tr>'
+                        );
+ 
+                    last = group;
+                }
+            });
+    },
+    layout: {
+        topStart: {
+          buttons: [
+                {
+                    extend: 'print',
+                    text: 'print current view',
+                    filename: '{{ site.course_number }} Schedule',
+                    messageTop: 'Instructor: {{ site.instructor }}',
+                    messageBottom: 'Last updated: {{ page.date | date: "%D" }}',
+                    exportOptions: {
+                      stripHtml: false
+                    }
+                }
+            ]
+        }
+    }
+  });
+
+  $('.buttons-print').each(function() {
+   $(this).removeClass('dt-button btn-secondary buttons-print').addClass('btn-outline-primary btn-sm mb-3')
+})
+</script>

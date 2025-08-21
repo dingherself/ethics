@@ -1,0 +1,62 @@
+    <div class="container mt-4 mb-2 mb-lg-4" style="padding-left: 1.5em; padding-right: 1.5em;">
+      <nav class="navbar navbar-expand-xl">
+        <a class="navbar-brand mb-0 d-inline d-md-none" style="font-weight: 400;" href="{{ site.url}}">{{ site.course_number }}: {{ site.course_title_short | smartify }}</a>
+        <a class="navbar-brand mb-0 d-none d-md-inline" style="font-weight: 400;" href="{{ site.url}}">{{ site.course_number }}: {{ site.course_title | smartify }}</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle Navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ms-auto">
+          {%- if page.group == 'index' %}
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="{{ site.url}}">Home
+              <span class="visually-hidden">(current)</span>
+              </a>
+            </li>
+          {%- else %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.url}}">Home</a>
+            </li>
+          {%- endif -%}
+          {%- if page.group == 'announcements' %}
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="{{ site.baseurl }}{% link announcements.html %}">Announcements
+              <span class="visually-hidden">(current)</span>
+              </a>
+            </li>
+          {%- else %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.baseurl }}{% link announcements.html %}">Announcements</a>
+            </li>
+          {%- endif -%}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Syllabus & Policies</a>
+              <ul class="dropdown-menu">
+{%- assign pages_list = site.pages -%}
+{%- assign group = 'syllabus' -%}
+{% include resources_list.html %}
+              </ul>
+            </li>
+{%- assign pages_list = site.pages -%}
+{%- assign group = 'navigation' -%}
+{% include pages_list.html %}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
+              <ul class="dropdown-menu">
+{%- assign pages_list = site.pages -%}
+{%- assign group = 'resources' -%}
+{% include resources_list.html %}
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dark Theme</a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#" data-bs-theme-value="dark">On</a></li>
+                <li><a class="dropdown-item" href="#" data-bs-theme-value="light">Off</a></li>
+                <li><a class="dropdown-item" href="#" data-bs-theme-value="auto">Auto</a></li>
+                </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>

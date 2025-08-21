@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{%- if page.categories %}
+<nav class= aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    {%- capture category_name -%}{{ page.categories | escape | split: ', ' | first | remove: '[&quot;' | remove: '&quot;]' }}{%- endcapture -%}
+    <li class="breadcrumb-item"><small class="text-body-secondary"><a href="{{ category_name | append: '.html' | relative_url }}">{{ category_name | capitalize | smartify}}</a></small></li>
+    <li class="breadcrumb-item active" aria-current="page"><small class="text-body-secondary">{{ page.title }}</small></li>
+  </ol>
+</nav>
+{%- endif %}
+
+<h1>{{ page.title | smartify}}</h1>
+
+{% unless page.date == nil or page.categories contains "nodate" -%}
+<p style="font-size: 0.95rem; font-style: italic; margin-bottom: 1.25rem;">Posted: {{ page.date | date: "%a, %b %e, %Y" }}</p>
+{%- endunless %}
+
+<div class="d-grid d-lg-block d-print-none flex-wrap" style="margin-bottom: 2.25rem;">
+  <button class="btn btn-outline-primary btn-sm" type="button" onClick="window.print()"><span>print this page</span></button>
+</div>
+
+{{ content }}

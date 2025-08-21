@@ -1,0 +1,67 @@
+---
+layout: default
+title: Home
+group: index
+---
+
+<p class="mx-auto text-center" style="margin-top: 0.5rem"><a href="https://featureassets.amuniversal.com/assets/df1f5bf0784c01302116001dd8b71c47"><img class="img-fluid" style="max-height: 400px;" src="https://featureassets.amuniversal.com/assets/df1f5bf0784c01302116001dd8b71c47" alt="Comic strip; alt text follows the image below."></a></p>
+
+<p style="text-align: right; margin-bottom:1rem; font-size: 0.95rem;"><a data-bs-toggle="collapse" href="#comic" role="button" aria-expanded="false" aria-controls="comic">alt text</a> | credit: Bill Watterson </a></p>
+<div class="collapse" id="comic">
+  <div class="card card-body">
+    <p><em><em>Calvin and Hobbes</em> comic strip, from left to right</em>: Calvin talking to Hobbes: “Today at school, I tried to decide whether to cheat on my test or not. I wondered is it better to do the right thing and fail … Or is it better to do the wrong thing and succeed? On the one hand, undeserved success gives no satisfaction … But on the other hand, well-deserved failure gives no satisfaction either. Of course, most everybody cheats some time or other. People always bend the rules if they think they can get away with it … Then again, that doesn’t justify <em>my</em> cheating. Then I thought, look, cheating on one little test isn’t such a big deal. It doesn’t hurt anyone … But then I wondered if I was just rationalizing my unwillingness to accept the consequence of not studying. Still, in the real world, people care about success, not principles … Then again, maybe that’s why the world is in such a mess. What a dilemma!” Hobbes responds: “So what did you decide?” Calvin: “Nothing, I ran out of time and I had to turn in a blank paper.” Hobbes: “Anymore, simply acknowledging the issue is a moral victory.” Calvin: “Well, it just seemed wrong to cheat on an ethics test.”</p>
+  </div>
+</div>
+
+<h1 style="margin-bottom: 0.875rem;">Welcome to {{ site.course_number }}: {{ site.course_title | smartify }}!</h1>
+
+<p>{{ site.institution | smartify }}, {{ site.semester | smartify }}<br />
+{{ site.meeting_time }}, {{ site.classroom | smartify }}, <a href="{{ site.learning_site1 }}">CourseWorks</a><br />Discussion section required</p>
+
+{% if site.ta_title %}
+<div class="row no-gutters gx-0 mb-1">
+  <div class="col-12">
+{% endif %}
+    <script language="JavaScript" type="text/javascript">
+      var g = "edu";
+      var o = "barnard";
+      var c = ".";
+      var a = "dding";
+      var t = " ";
+      var s = "@";
+      document.write("<p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}' target='_blank'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + a + s + o + c + g + "'>" + a + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br />" + "</p>");
+    </script>
+    <noscript><p><strong>Instructor</strong>: <a href='{{ site.instructor_website }}' target='_blank'>{{ site.instructor | smartify }}</a> (they/she)<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.office }}<br /><strong>Office hours</strong>: {{ site.office_hours }}<br /></p></noscript>
+{% if site.ta_title %}
+    <p><strong>{{ site.ta_title }}:</strong>
+  </div>
+
+  <div class="col-12 col-md-6">
+    <script language="JavaScript" type="text/javascript">
+      var g = "edu";
+      var o = "columbia";
+      var c = ".";
+      var i = "{{ site.ta1_netid }}";
+      var t = " ";
+      var s = "@";
+      document.write("<p>{{ site.ta1_name | smartify }}<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + i + s + o + c + g + "'>" + i + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.ta1_office }}<br /><strong>Office hours</strong>: {{ site.ta1_office_hours }}<br />" + "</p>");
+    </script>
+    <noscript><p>{{ site.ta1_name | smartify }}<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.ta1_office }}<br /><strong>Office hours</strong>: {{ site.ta1_office_hours }}<br /></p></noscript>
+  </div>
+
+  <div class="col-12 col-md-6">
+    <script language="JavaScript" type="text/javascript">
+      var g = "edu";
+      var o = "columbia";
+      var c = ".";
+      var i = "{{ site.ta2_netid }}";
+      var t = " ";
+      var s = "@";
+      document.write("<p>{{ site.ta2_name | smartify }}<br /><strong>Email</strong>:" + t + "<a href='" + "mail" + "to:" + i + s + o + c + g + "'>" + i + s + o + c + g + "</a><br /><strong>Office</strong>: {{ site.ta2_office }}<br /><strong>Office hours</strong>: {{ site.ta2_office_hours }}<br />" + "</p>");
+    </script>
+    <noscript><p>{{ site.ta2_name | smartify }}<br /><strong>Email</strong>:[you must enable JavaScript in your web browser to view the email address]<br /><strong>Office</strong>: {{ site.ta2_office }}<br /><strong>Office hours</strong>: {{ site.ta2_office_hours }}<br /></p></noscript>
+  </div>
+</div>
+{% endif %}
+
+<p align="center"><strong><a href="{{ site.baseurl }}{% link announcements.html %}">announcements</a></strong> &#124; <strong><a href="{{ site.baseurl }}{% link syllabus.md %}">syllabus</a></strong> &#124; <strong><a href="{{ site.baseurl }}{% link course-policies.md %}">policies</a></strong> &#124; <strong><a href="{{ site.baseurl }}{% link schedule.html %}">schedule</a></strong> &#124; <strong><a href="{{ site.baseurl }}{% link handouts.html %}">handouts</a></strong></p>

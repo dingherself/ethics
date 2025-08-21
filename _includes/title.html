@@ -1,0 +1,7 @@
+    <title>
+      {%- if page.title -%}
+      {{ page.title | strip_html | smartify }} · {{ site.course_number }}: {{ site.course_title | strip_html | smartify }}
+      {%- else -%}
+      {{ site.course_number }}: {{ site.course_title | strip_html | smartify }}
+      {%- endif -%}
+    </title>

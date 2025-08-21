@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" data-bs-theme="dark">
+  <head>
+{% include meta.html %}
+
+{% include title.html %}
+
+{% include css.html %}
+
+    <link href="{{ 'assets/bootstrap-toc.min.css' | relative_url }}" rel="stylesheet">
+
+{% include scripts.html %}
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script> 
+    <script src="{{ 'assets/bootstrap-toc.min.js' | relative_url }}"></script>
+
+{% include favicons.html %}
+
+{% include open-graph.html %}
+  </head>
+  <body>
+{% include navbar.html %}
+    
+    <main id="content" role="main" class="container" style="padding-bottom: 3rem;">
+      <div class="container maincontent">
+        <div class="row justify-content-center align-items-start gx-7 mt-2">
+          <div class="col-12 col-md-11">
+            <h1>{{ page.title | smartify}}</h1>
+            {% if page.date %}
+            <p style="font-size: 0.95rem; font-style: italic; margin-bottom: 1.25rem;">Last updated: {{ page.date | date: "%a, %b %e, %Y" }}</p>
+            {% endif %}
+            <div class="btn-group d-flex d-md-inline-flex d-lg-none d-print-none flex-wrap" role="group">
+              <button class="btn btn-outline-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#showtoc" aria-expanded="false" aria-controls="showtoc"><span>table of contents</span></button>
+              <button class="btn btn-outline-primary btn-sm" type="button" onClick="window.print()"><span>print this page</span></button>
+            </div>
+            <div class="d-none d-lg-block d-print-none flex-wrap mb-lg-2">
+              <button class="btn btn-outline-primary btn-sm" type="button" onClick="window.print()"><span>print this page</span></button>
+            </div>
+          </div>
+        </div>
+        <div class="row justify-content-center align-items-start gx-7">
+          <div class="col-12 col-md-11 col-lg-3 sticky-top small-screen-not-sticky order-1 order-lg-5 mb-4 mb-lg-0">
+            <div class="d-lg-block d-print-block mt-5 collapse" id="showtoc">
+              <nav id="toc">
+              </nav>
+            </div>
+          </div>
+          <div class="col-12 col-md-11 col-lg-8 order-5 order-lg-1 mt-5">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="container maincontent">
+      <div class="row justify-content-center" align-items-start gx-5 mb-5">
+      <div class="col-12">
+        {% include footer.html %}
+      </div>
+      </div>
+    </footer>
+
+    <script>
+      $(function () {
+        var navSelector = "#toc";
+        var $myNav = $(navSelector);
+        Toc.init({
+          $nav: $myNav,
+          $scope: $("h2"),
+        });
+      });
+    </script>
+
+  </body>
+</html>

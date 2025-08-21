@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}" data-bs-theme="dark">
+  <head>
+{% include meta.html %}
+
+{% include title.html %}
+
+{% include css.html %}
+
+{% include favicons.html %}
+
+{% include open-graph.html %}
+  </head>
+  <body>
+{% include navbar.html %}
+
+    <main id="content" role="main" class="container" style="padding-bottom: 3rem;">
+      <div class="container maincontent">
+{{ content }}
+      </div>
+    </main>
+
+    <footer class="container maincontent">
+      <div class="row justify-content-center" align-items-start gx-5 mb-5">
+      <div class="col-12">
+{% include footer.html %}
+      </div>
+      </div>
+    </footer>
+
+{% include scripts.html %}
+  </body>
+</html>

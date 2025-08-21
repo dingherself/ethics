@@ -1,0 +1,8 @@
+_site
+_gh_pages
+.sass-cache
+.jekyll-metadata
+.DS_Store
+.jekyll-cache
+.obsidian
+.~lock.*

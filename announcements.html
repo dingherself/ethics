@@ -1,0 +1,14 @@
+---
+layout: default
+posts_category: announcements
+title:  "Announcements"
+group: announcements
+---
+
+<h1>Announcements</h1>
+
+{% unless site.categories.announcements -%}
+<p>I will send out announcements by email and then post them here for easier reference.</p>
+{%- endunless %}
+
+{% include posts_list.html %}

@@ -1,0 +1,25 @@
+{%- if include.module -%}
+<h2>{{ include.module }}</h2>
+
+  <ul>
+  {%- for post in site.posts -%}
+    {%- if post.categories contains page.posts_category -%}
+      {%- if post.module == include.module %}
+      <li>
+        <a href="{{ post.url }}" style="padding-right: 7px;">{{ post.title }}</a>{%- unless page.posts_category == "nodate" -%}<small class="text-body-secondary" style="font-style: italic;">{{ post.date | date: "%a, %b %e, %Y" }}</small>{%- endunless -%}
+      </li>
+      {%- endif -%}
+    {%- endif -%}
+  {%- endfor %}
+  </ul>
+{%- else %}
+  <ul>
+  {%- for post in site.posts -%}
+    {%- if post.categories contains page.posts_category %}
+      <li>
+        <a href="{{ post.url }}" style="padding-right: 7px;">{{ post.title }}</a>{%- unless page.posts_category == "nodate" -%}<small class="text-body-secondary" style="font-style: italic;">{{ post.date | date: "%a, %b %e, %Y" }}</small>{%- endunless -%}
+      </li>
+    {%- endif -%}
+  {%- endfor %}
+  </ul>
+{%- endif -%}

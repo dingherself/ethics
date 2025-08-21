@@ -1,0 +1,22 @@
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@dingherself">
+    <meta property="og:type" content="article">
+    <meta property="article:author" content="https://dingherself.com">
+{%- if page.title %}
+    <meta name="og:title" content="{{ page.title | strip_html | smartify }} · {{ site.course_number }}: {{ site.course_title | strip_html | smartify }}">
+    <meta name="twitter:title" content="{{ page.title | strip_html | smartify }} · {{ site.course_number }}: {{ site.course_title | strip_html | smartify }}">
+{%- else %}
+    <meta name="og:title" content="{{ site.course_number }}: {{ site.course_title | strip_html | smartify }}">
+    <meta name="twitter:title" content="{{ site.course_number }}: {{ site.course_title | strip_html | smartify }}">
+{%- endif %}
+    <meta name="og:description" content="{{ page.description | default: site_description | strip_html | smartify }}">
+    <meta name="twitter:description" content="{{ page.description | default: site_description | strip_html | smartify }}">
+{%- if page.redirect_to %}
+    <link rel="canonical" href="" />
+    <meta property="og:url" content="{{ page.redirect_to }}">
+{%- else %}
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+{%- endif %}
+{%- if site.image %}
+    <meta property="og:image" content="{{ page.image | default: site.image }}">
+{%- endif %}

@@ -1,0 +1,12 @@
+{%- assign sorted_pages = site.pages | sort: "order" -%}
+{%- for node in sorted_pages -%}
+  {%- if group == node.group -%}
+    {%- if page.url == node.url %}
+                <li><a class="dropdown-item active" aria-current="page" href="{{ node.url | relative_url }}">{{ node.navtitle }}<span class="visually-hidden">(current)</span></a></li>
+    {%- else %}
+                <li><a class="dropdown-item" href="{{ node.url | relative_url }}">{{ node.navtitle }}</a></li>
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign pages_list = nil -%}
+{%- assign group = nil -%}

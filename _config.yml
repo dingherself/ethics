@@ -1,0 +1,110 @@
+# Dependencies
+markdown:       kramdown
+highlighter:    rouge
+
+kramdown:
+  auto_ids:     true
+  #footnote_backlink: "&#8617;&#65038;" # add variation selector 15 to force backarrow for footnotes to be rendered as text, not emoji (doesn't work for chrome?)
+  footnote_backlink: "" # do not use backlink for footnotes
+
+# Permalinks
+permalink:      none
+
+# Server
+source:            "."
+destination:    ./_site
+host:               0.0.0.0
+port:              9001
+baseurl:         ""
+url:                 "https://ethics.dingherself.com"
+encoding:       UTF-8
+timezone:       America/New_York
+lang:               en
+exclude:
+  - .git/
+  - .github/
+  - assets/scss/
+  - build/
+  - js/
+  - node_modules/
+  - nuget/
+  - scss/
+  - vendor/
+  - CODE_OF_CONDUCT.md
+  - composer.json
+  - Gemfile
+  - Gemfile.lock
+  - package.js
+  - package.json
+  - package-lock.json
+  - README.md
+  - sache.json
+  - twbsconfig.yml
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-target-blank
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+future: true
+
+# Course
+institution:            "Barnard College"
+semester:              "Fall 2025"
+course_number:  "Phil 3701"
+course_title:         "Ethics"
+course_title_short: "Ethics"
+course_title_full:  "Ethics"
+instructor:            "Ding"
+instructor_website: "https://dingherself.com"
+office:                   "Milbank Hall 326B"
+office_hours:       "M 2:35–3:35pm, W 11:30am–12:30pm, and by appointment"
+meeting_time:     "MW 1:10–2:25pm"
+learning_site:       "https://courseworks2.columbia.edu/courses/224366"
+classroom:            "Barnard Hall LL003"
+#section1:             "Sec. 002"
+#meeting_time1:     "MW 10:10–11:25am"
+#learning_site1:       "https://courseworks2.columbia.edu/courses/224358"
+#classroom1:            "Milbank Hall 327"
+#section2:             "Sec. 003"
+#meeting_time2:     "MW 4:10–5:25pm"
+#classroom2:            "Diana Center 203"
+#learning_site2:       "https://courseworks2.columbia.edu/courses/224361"
+ta_title: "Teaching Assistants"
+ta1_name: "Sara Wexler"
+ta1_netid: "sara.wexler"
+ta1_office: "TBD"
+ta1_office_hours: "TBD"
+ta2_name: "Laura Lin"
+ta2_netid: "al4745"
+ta2_office: "TBD"  
+ta2_office_hours: "TBD"
+
+# Custom variables
+#current_version:      4.0.0
+#current_ruby_version: 4.0.0
+#docs_version:         4.0
+#repo:                 "https://github.com/twbs/bootstrap"
+#slack:                "https://bootstrap-slack.herokuapp.com"
+#blog:                 "https://blog.getbootstrap.com"
+#expo:                 "https://expo.getbootstrap.com"
+#jobs:                 "https://jobs.getbootstrap.com"
+#themes:               "https://themes.getbootstrap.com"
+
+#download:
+#  source:           "https://github.com/twbs/bootstrap/archive/v4.0.0.zip"
+#  dist:             "https://github.com/twbs/bootstrap/releases/download/v4.0.0/bootstrap-4.0.0-dist.zip"
+
+#cdn:
+  # See https://www.srihash.org for info on how to generate the hashes
+#  css:              "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+#  css_hash:         "sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+#  js:               "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+#  js_hash:          "sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+#  jquery:           "https://code.jquery.com/jquery-3.2.1.slim.min.js"
+#  jquery_hash:      "sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+#  popper:           "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+#  popper_hash:      "sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
