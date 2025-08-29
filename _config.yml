@@ -73,15 +73,17 @@ classroom:            "Barnard Hall LL003"
 #meeting_time2:     "MW 4:10–5:25pm"
 #classroom2:            "Diana Center 203"
 #learning_site2:       "https://courseworks2.columbia.edu/courses/224361"
-ta_title: "Teaching Assistants"
+ta_title: "Teaching assistants"
 ta1_name: "Sara Wexler"
 ta1_netid: "sara.wexler"
 ta1_office: "TBD"
 ta1_office_hours: "TBD"
+ta1_section: "Phil 3711.01, M 4:10pm-5:00pm"
 ta2_name: "Laura Lin"
 ta2_netid: "al4745"
 ta2_office: "TBD"  
 ta2_office_hours: "TBD"
+ta2_section: "Phil 3711.02, R 1:10pm-2:00pm"
 
 # Custom variables
 #current_version:      4.0.0
