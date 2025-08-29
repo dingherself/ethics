@@ -60,7 +60,7 @@ date: 2025-08-29
 
 ## Course Description
 
-This course surveys both traditional and alternative approaches to normative ethics. We will focus on a contrast between more armchair-style analytic ethics and more socially engaged ways of doing ethics, and we will pay special attention to the complex interplay between theories and cases. Topics will include consequentialism, deontology, virtue ethics, care ethics, non-ideal ethics, reproductive ethics, the intersection of ethics with epistemology, and existentialist ethics.
+This course surveys both traditional approaches to normative ethics and emerging critiques that challenge them. We will focus on a contrast between more armchair-style analytic ethics and more socially engaged ways of doing ethics, and we will pay special attention to the complex interplay between theories and cases. Topics will include consequentialism, deontology, virtue ethics, care ethics, non-ideal ethics, reproductive ethics, the intersection of ethics with epistemology, and existentialist ethics.
 
 One prior course in philosophy, as well as concurrent enrollment in Phil 3711, is required.
 
