@@ -11,7 +11,7 @@ date: 2025-08-29
 
 <p class="mt-2"><strong>{{ site.course_number }}: {{ site.course_title_full | smartify }}</strong><br />
 {{ site.institution | smartify }}, {{ site.semester | smartify }}<br />
-{{ site.meeting_time }}, {{ site.classroom | smartify }}, <a href="{{ site.learning_site1 }}">CourseWorks</a><br />Discussion section required</p>
+{{ site.meeting_time }}, {{ site.classroom | smartify }}, <a href="{{ site.learning_site }}">CourseWorks</a><br />Discussion section required</p>
 
 <script language="JavaScript" type="text/javascript">
       var g = "edu";
