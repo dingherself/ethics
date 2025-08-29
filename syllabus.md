@@ -68,10 +68,10 @@ One prior course in philosophy, as well as concurrent enrollment in Phil 3711, i
 
 In {{ site.course_number }}, students will learn to
 
-1. Analyze philosophical questions from metaphysics, epistemology, ethics, and political theory;
-2. Employ humanistic methods and tools to develop, articulate, and argue for their own views on these philosophical questions;
+1. Explain, apply, and critique major approaches to normative ethics;
+2. Employ philosophical methods and tools to develop, articulate, and argue for their own views on first-order as well as some applied and metaethical questions;
 3. Charitably interpret and critically assess philosophical texts and arguments; and
-4. Discuss the nature and value of philosophical reflection in light of our contemporary world.
+4. Discuss ways in which normative analysis and contemporary social justice movements may shed novel light on each other.
 
 ## Required Texts
 
