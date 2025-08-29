@@ -4,7 +4,7 @@ title: Syllabus
 navtitle: Syllabus
 group: syllabus
 order: 5
-date: 2025-08-20
+date: 2025-08-29
 ---
 
 <h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
