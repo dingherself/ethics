@@ -91,7 +91,7 @@ Please reach out if there’s something going on in your life (it happens!).
 ### Absences
 
 - Email me if there’s a reason you can’t come to class (I consider mental health to be a legitimate reason for missing class).
-- To catch up: do the readings, read the handout, get notes from at least two classmates, and come to office hours to discuss questions/thoughts.
+- To catch up: Do the readings, read the handout, get notes from at least two classmates, and come to office hours to discuss questions/thoughts.
 
 ### Makeups & extensions
 
