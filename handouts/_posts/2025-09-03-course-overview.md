@@ -66,7 +66,7 @@ There is an important sense in which what the grudge informers did was *wrong*.
   - When I or your TA challenges you with follow-up questions, it means we are interested in what you are saying, not that we’re upset with you!!
   - Sometimes people read my sense of humor as passive aggression—I want to clarify that.
 
-### Teaching Assistants
+### Teaching assistants
 
 - It’s a course requirement that you enroll in a discussion section.
   - Philosophy is something that we do better by doing it more.
