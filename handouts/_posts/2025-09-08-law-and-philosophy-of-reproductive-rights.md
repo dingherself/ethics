@@ -89,10 +89,11 @@ What counts a fundamental right?
   - Heavily medicalized: It’s a right to make a private medical decision *in consultation with a physician*.
   - Balanced against the state’s interests in “maternal health” and “the potentiality of human life”: The trimester framework.
     - Note that the *Roe* Court never gives the fetus a legal right to life (14th Amendment issue).
+    - Why and how does potentiality matter morally?
     - The significance of viability: “This is so because the fetus then presumably has the capability of meaningful life outside the mother’s womb.”
   - It’s a negative right *from* governmental interference, not a positive right *to* public resources in pursuing one’s decision (public funding cases).
   - Ginsburg’s critique: Is this a right of the (male) physician to practice medicine in disguise?
-  - Further weakened by Planned Parenthood v. Casey: Waiting periods, parental consent, reporting requirements, and mandatory notification of alternatives to abortion, are constitutionally permissible.
+  - Further weakened by *Planned Parenthood v. Casey* (1992): Waiting periods, parental consent, reporting requirements, and mandatory notification of alternatives to abortion, are constitutionally permissible.
 - *Dobbs*’s historical analysis (from *Washington v. Glucksberg* (1997)): Must be “deeply rooted in this Nation’s history and traditions” AND “implicit in the concept of ordered liberty” such that “neither liberty nor justice would exist if they were sacriﬁced.”
   - *Dobbs*’s innovation: Retroactive application of the *Glucksberg* test.
   - Abortion was a common law crime after quickening (roughly 16–18 weeks of pregnancy).
