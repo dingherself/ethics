@@ -89,6 +89,7 @@ What counts a fundamental right?
   - Heavily medicalized: It’s a right to make a private medical decision *in consultation with a physician*.
   - Balanced against the state’s interests in “maternal health” and “the potentiality of human life”: The trimester framework.
     - Note that the *Roe* Court never gives the fetus a legal right to life (14th Amendment issue).
+    - The significance of viability: “This is so because the fetus then presumably has the capability of meaningful life outside the mother’s womb.”
   - It’s a negative right *from* governmental interference, not a positive right *to* public resources in pursuing one’s decision (public funding cases).
   - Ginsburg’s critique: Is this a right of the (male) physician to practice medicine in disguise?
   - Further weakened by Planned Parenthood v. Casey: Waiting periods, parental consent, reporting requirements, and mandatory notification of alternatives to abortion, are constitutionally permissible.
