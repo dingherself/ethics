@@ -44,7 +44,7 @@ Possible textual homes of reproductive rights:
 
 In this context it’s particularly useful to distinguish *persons* in a moral sense and *humans* in a biological sense.
 
-- Some tissues are human, but they are not persons.
+- My hand is human, but it's not a person.
 - Some persons may not be human.
 
 The standard framing: Morally permissible to control your own body up to the point your autonomy is outweighed by the fetus’s right to life, which becomes a question of the grounds of *moral status*.
