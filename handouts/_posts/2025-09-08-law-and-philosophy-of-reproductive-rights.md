@@ -28,7 +28,7 @@ Contextualizing *Roe v. Wade* (1973):
   - The women’s liberation movement (the “second wave” of feminism): Emerged in the late 1960s as small consciousness-raising groups in New York City, Chicago, Boston, and other major cities.
   - [New York Radical Women](https://www.thecut.com/2017/11/an-oral-history-of-feminist-group-new-york-radical-women.html) and the 1968 [Miss America protest](https://time.com/5387623/miss-america-protest/?xid=tcoshare).
 
-Possible textual homes of gender equality rights:
+Possible textual homes of reproductive rights:
 
 - [The Equal Rights Amendment](https://www.govinfo.gov/content/pkg/STATUTE-86/pdf/STATUTE-86-Pg1523.pdf#page=3): Passed the House in 1971; passed the Senate in 1972; failed to be ratified by 1982.
 - The Equal Protection Clause: Envisioned by Pauli Murray and litigated by then–Columbia faculty Ruth Bader Ginsburg.
