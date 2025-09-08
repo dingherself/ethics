@@ -47,7 +47,7 @@ There is an important sense in which what the grudge informers did was *wrong*.
 - Philosophy is democratic: We treat these famous philosophers as *our equals* in a long conversation; philosophy really is for everybody.
 - Philosophy is anti-dogmatic: We believe something not because parents, society, etc., told us so, but because we reflectively endorse and “own up to” them; most of the time, we are all really just figuring things out.
 - So, philosophy is not “just opinions” or “no wrong answers”: Ideas and even truths abound. Not every idea ought to be taken equally seriously, nor is every truth equally significant. Don’t forget to ask: Is this right? What are we trying to do here?
-- Good philosophy should also be fun! I want us to get our hands directly, so to speak.
+- Good philosophy should also be fun! I want us to get our hands dirty, so to speak.
 
 ### I’d like us to think of our classroom as where we come to *do philosophy together*!
 
