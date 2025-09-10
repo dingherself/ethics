@@ -83,6 +83,57 @@ Not all rights are created equal: Mere liberty interests vs. fundamental rights 
 - Does this right to privacy extend to pregnancy, and how do you figure that out?
 - Is this right limited, and in what ways?
 
+<style>
+		table {
+			border:1px solid #b3adad;
+			border-collapse:collapse;
+			padding:5px;
+		}
+		table th {
+			border:1px solid #b3adad;
+			padding:5px;
+			background: #f0f0f0;
+			color: #313030;
+		}
+		table td {
+			border:1px solid #b3adad;
+			text-align:left;
+			padding:5px;
+			background: #ffffff;
+			color: #313030;
+		}
+</style>
+
+<table>
+		<thead>
+			<tr>
+				<th>Trimester</th>
+				<th>State’s interest in maternal health</th>
+				<th>State’s interest in potential life</th>
+				<th>Permissible legislation</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1st</td>
+				<td>Not overriding</td>
+				<td>Not overriding</td>
+				<td>None; “the abortion decision and its effectuation must be left to the medical judgment of the pregnant woman’s attending physician”</td>
+			</tr>
+			<tr>
+				<td>2nd</td>
+				<td>Overriding</td>
+				<td>Not overriding</td>
+				<td>The state “may, if it chooses, regulate the abortion procedure in ways that are reasonably related to maternal health”</td>
+			</tr>
+			<tr>
+				<td>3rd</td>
+				<td>Overriding</td>
+				<td>Overriding</td>
+				<td>The state “may, if it chooses, regulate, and even proscribe, abortion except where it is necessary, in appropriate medical judgment, for the preservation of the life or health of the mother”&nbsp;</td>
+			</tr>
+		</tbody>
+</table>
 What counts a fundamental right?
 
 - *Roe*’s conceptual analysis: “This right of privacy . . . is broad enough to encompass a woman’s decision whether or not to terminate her pregnancy.”
