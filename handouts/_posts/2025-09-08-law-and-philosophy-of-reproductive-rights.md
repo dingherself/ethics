@@ -134,6 +134,7 @@ Not all rights are created equal: Mere liberty interests vs. fundamental rights 
 			</tr>
 		</tbody>
 </table>
+
 What counts a fundamental right?
 
 - *Roe*’s conceptual analysis: “This right of privacy . . . is broad enough to encompass a woman’s decision whether or not to terminate her pregnancy.”
