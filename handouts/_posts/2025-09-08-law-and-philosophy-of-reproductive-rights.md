@@ -88,6 +88,7 @@ Not all rights are created equal: Mere liberty interests vs. fundamental rights 
 			border:1px solid #b3adad;
 			border-collapse:collapse;
 			padding:5px;
+			margin-bottom: 1em;
 		}
 		table th {
 			border:1px solid #b3adad;
