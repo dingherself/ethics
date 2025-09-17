@@ -33,15 +33,11 @@ In your new group, please first walk your classmates through the passage you are
 ## What are reproductive rights as an issue *of*?
 
 - Patient-physician autonomy?
-
 - Bodily autonomy?
-
 - Political/social equality?
-
   - Catharine MacKinnon: “In the usual argument, the abortion decision is made contingent on whether the fetus is a form of life. I cannot follow that. Why should women not make life or death decisions?”
   - *Geduldig v. Aiello* (1974): Pregnancy discrimination is not discrimination on the basis of sex under the Equal Protection Clause.
   - Salma’s story: Visibly pregnant + visibly Mexican + visibly working-class body aesthetic = presumptively “illegal.”
     - Legally documented vs. socially documented.
     - Pregnancy as an issue of reproductive biology vs. pregnancy as an issue of the social organization of reproduction.
-
   - Murillo: Racist tropes of Mexico as “filthy,” “dirty,” “immoral,” “backwards,” and “dangerous” “deployed to discredit Mexican providers were not abstractions but part of a century-long history of Mexicans and Mexico becoming scapegoats for failed US policies.”
