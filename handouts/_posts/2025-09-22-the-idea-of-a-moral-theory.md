@@ -43,7 +43,7 @@ A *theory of right (conduct)* investigates the **grounds of the deontic status o
 - Not an issue of correlation or even necessary/sufficient conditions: A theory of right should give more than a mere thumbs-up/-down and offer a compelling story of the “why?”
 - Consider: X is the morally right/wrong thing to do if and only if Ding’s crystal ball says so—not *explanatory* even if true!
 - Consider also: X is the morally right/wrong thing to do if and only if God so commands.
-  - Euthyphro dilemma: Is X is the morally right/wrong thing to do *because* God so commands, or does God command that we do/not do X *because* X is the morally right/wrong thing to do?
+  - The Euthyphro problem: Is X is the morally right/wrong thing to do *because* God so commands, or does God command that we do/not do X *because* X is the morally right/wrong thing to do?
   - Horn 1: God commands that we do/not do X because X is the morally right/wrong thing to do—not explanatory, implying independent moral standards.
   - Horn 2: X is the morally right/wrong thing to do because God so commands (divine command theory)—arbitrary, undermining the authority of morality.
 
