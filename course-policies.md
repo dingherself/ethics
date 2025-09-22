@@ -32,7 +32,7 @@ Approved by the student body in 1912 and updated in 2016, the Code states:
 
 ### Plagiarism
 
-**I view plagiarism as a *very* serious violation of the Barnard Honor Code, and you should as well.** I strongly encourage you to review this helpful guide: <https://lib.arizona.edu/research/sources/plagiarism>{: .text-break}. I understand different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for the purposes of our course, please don’t hesitate to ask me.
+**I view plagiarism as a *very* serious violation of the Barnard Honor Code, and you should as well.** I strongly encourage you to review this helpful guide: <https://lib.arizona.edu/research/sources/plagiarism>{: .text-break}. I understand different instructors may draw the line somewhat differently; if you have any questions about what constitutes plagiarism for purposes of our course, please don’t hesitate to ask me.
 
 ### Use of generative AI tools
 
@@ -50,7 +50,7 @@ My own policy is to prohibit students from turning in *as their own work* either
 
 Since many of the issues we will cover in this course are not only intellectually but also personally relevant, you might find it difficult to read and discuss certain course materials. I want to acknowledge that. It’s perfectly understandable.
 
-It’s therefore important that we respect, support, and care for one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in the class is disrespectful or otherwise problematic.
+It’s therefore important that we respect, support, and care for one another throughout the course. Please always feel free to talk to me if you anticipate certain topics will be especially difficult for you, or if you think the way they get discussed in class is disrespectful or otherwise problematic.
 
 ### (Lack of) diversity in philosophy
 

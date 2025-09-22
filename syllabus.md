@@ -94,11 +94,11 @@ All course requirements must be completed in order to pass this class. **An F re
 
 ### Participation
 
-In approaching a philosophical issue, we will often find ourselves in the middle of a long conversation among many different authors. A hallmark of what we do in philosophy is the way we participate in this conversation and position ourselves in relation to these authors: we are not outside observers just here to absorb what each author has said and perhaps to summarize some of the points of agreement and disagreement; rather, we are equal parties to the conversation, just like every other philosopher. It’s helpful, then, to think of philosophy classes not as where you come to be lectured about particular philosophical views, but as where we gather to *do philosophy together*, to contribute our own insights to ongoing philosophical conversations, and to think through these difficult issues *for ourselves*.
+In approaching a philosophical issue, we will often find ourselves in the middle of a long conversation among many different authors. A hallmark of what we do in philosophy is the way we participate in this conversation and position ourselves in relation to these authors: we are not outside observers just here to absorb what each author has said and perhaps to summarize some of the points of agreement and disagreement; rather, we are equal parties to the conversation, just like every other philosopher. It’s helpful, then, to think of philosophy classes not as where you come to be lectured about particular philosophical views but as where we gather to *do philosophy together*, to contribute our own insights to ongoing philosophical conversations, and to think through these difficult issues *for* ourselves.
 
 Participation in philosophy courses also serves a wide range of pedagogical purposes: class discussions help students make sense of difficult ideas and arguments in the texts; they help students learn to explain and apply concepts, analyze and assess arguments, and formulate and respond to worries and objections; in addition, they contribute to other students’ learning experience by helping to build a vibrant, mutually supportive classroom environment that encourages questions, exchange of ideas, and philosophical reflection.
 
-You are expected to regularly contribute to class discussions and participate in class activities. To do that, you are expected to have read the assigned texts carefully and critically *in advance of class* (remember to bring a copy with you as we will often look at difficult passages together!).
+You are expected to regularly contribute to class discussions and participate in class activities. To do so, you are expected to have read the assigned texts carefully and critically *in advance of class* (remember to bring a copy with you as we will often look at difficult passages together!).
 
 It’s useful to keep in mind that philosophical writing is, at bottom, argumentative—that is, its goal is to defend or criticize a particular view. As you do the readings, be sure to:
 
@@ -110,7 +110,7 @@ For this class, in-class activities during lectures (which will be graded for co
 
 ### Course lexicon
 
-Throughout this semester, please keep a running lexicon of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot these down in your notes as you go, though the versions you turn in should be typed and cleaned up, and they should include not only a list of terms but their definitions/explanations (verbal or visual)—think dictionary entries.
+Throughout this semester, please keep a running glossary of the technical terms that we encounter in both our readings and our class discussions. Feel free to just jot these down in your notes as you go, though the versions you turn in should be typed and cleaned up, and they should include not only a list of terms but their definitions/explanations (verbal or visual)—think dictionary entries.
 
 I will ask everybody to turn in a midterm version of their lexicon, which you may consult during the midterm exam. This is merely a progress check and will not be graded; however, failure to turn one in on time will be penalized by up to a full letter grade (10%) on the final version.
 
