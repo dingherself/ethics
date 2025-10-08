@@ -4,9 +4,9 @@ title: "Writing Exercise II: Assessing Arguments"
 module: "Assignments & exams"
 ---
 
-*Due*: Monday, October 20, by midnight, to CourseWorks.<br />*Format*: No more than 300 words (excl. bibliography), any sensible spacing/font/margins, any citation style so long as you consistently apply it (use Chicago Author-Date if you don’t have a favorite).
+*Due*: Monday, October 20, by midnight, to CourseWorks.<br />*Format*: No more than 300 words (excl. bibliography), any sensible spacing/font/margins, any citation style so long as you consistently apply it.
 
-Thomson argues that Foot’s doing/allowing distinction does not work because it gets wrong the bystander version of the trolley problem. **Please critically evaluate the successfulness of this argument by raising what you take to be the strongest objection to it and then considering what Thomson could say in response.**
+Thomson argues that Foot’s doing/allowing distinction does not work because it gets wrong the bystander version of the trolley case. **Please critically evaluate the successfulness of this argument by raising what you take to be the strongest objection to it and then considering what Thomson could say in response.**
 
 *Advice*:
 
