@@ -4,9 +4,9 @@ title: Aristotle, <em>Nicomachean Ethics</em>
 module: "Now, theories"
 ---
 
-<div class="text-center mb-5" style="max-height: 500px;">
-<img src="{{ site.baseurl }}/assets/5-DIFFERENT-EDITIONS.jpeg" class="img-fluid " alt="Set of two memes: In the first, a hacker sits in front of six monitors doing sophistcated work, with captions reading “Historians of philosophy addressing 5 different editions of the same book in the references.” In the second, a man is throwing a dart with his eyes covered by his own hands, with captions reading “Analytic phiosophers deciding which edition to use as reference.”">
-</div>
+<center>
+<img src="{{ site.baseurl }}/assets/5-DIFFERENT-EDITIONS.jpeg" class="img-fluid mb-5" style="max-width: 350px;" alt="Set of two memes: In the first, a hacker sits in front of six monitors doing sophistcated work, with captions reading “Historians of philosophy addressing 5 different editions of the same book in the references.” In the second, a man is throwing a dart with his eyes covered by his own hands, with captions reading “Analytic phiosophers deciding which edition to use as reference.”">
+</center>
 
 Reading Aristotle on his own terms vs. treating/translating him as a normative ethical theorist.
 
