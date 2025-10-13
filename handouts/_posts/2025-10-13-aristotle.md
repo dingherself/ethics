@@ -47,7 +47,7 @@ The core argument happens in *NE* I.7, 1097b22–1098a18.
 *Aretê*: “Virtue” or “excellence.”
 
 - *Aretê* enables us to function well.
-  - The *ergon* of a knife is to cut, and its *aretê* sharpness.
+  - The *ergon* of a knife is cutting, and its *aretê* sharpness.
 
 - For human beings like us: Wisdom, justice, bravery, honesty, etc.
 - *Aretê* is the *mean* between two vices—“excess” and “defect”.
