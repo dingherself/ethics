@@ -47,9 +47,12 @@ The core argument happens in *NE* I.7, 1097b22–1098a18.
 *Aretê*: “Virtue” or “excellence.”
 
 - *Aretê* enables us to function well.
-- Wisdom, justice, bravery, honesty, etc.
+  - The *ergon* of a knife is to cut, and its *aretê* sharpness.
+
+- For human beings like us: Wisdom, justice, bravery, honesty, etc.
 - *Aretê* is the *mean* between two vices—“excess” and “defect”.
   - Bravery is the mean between cowardliness and recklessness.
+  - We might not have a word for the two extremes; language is orthogonal to the issue.
 
 
 What is the *ergon* of the human being?
