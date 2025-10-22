@@ -61,7 +61,7 @@ module: "Assignments & exams"
 *Two of the following prompts will be selected to appear on the exam, and you will be asked to answer <u><strong>one</strong></u> of the two. An excellent essay will build on but go beyond our class discussions in some significant way. Aim for 500–700 words.*
 
 1. On reflection, if you had to say what ethics meant to you, how would you sum it up?
-2. “[I]t is of the greatest practical importance not to make [moral] principles dependent upon the special nature of human reason . . . but instead, just because moral laws are to hold for every rational being as such, to derive them from the universal concept of a rational being as such, and in this way to set forth completely the whole of morals, which needs anthropology for its application to human beings” (Kant, *Groundwork* 4:411–12). Explain and assess.
+2. “[I]t is of the greatest practical importance not to make [moral] principles dependent upon the special nature of human reason . . . but instead, just because moral laws are to hold for every rational being as such, to derive them from the universal concept of a rational being as such, and in this way to set forth completely the whole of morals, which needs anthropology for its application to human beings” (Kant, *Groundwork* 4:411–12, emphasis omitted). Explain and assess.
 3. “[In the 1970s] mainstream ethics began to look very different: there
    was a dramatic turn in what could be done by academic philosophers
    under the name ‘ethics.’ The turn was due to the Vietnam War, which
