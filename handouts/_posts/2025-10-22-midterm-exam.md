@@ -62,4 +62,14 @@ module: "Assignments & exams"
 
 1. On reflection, if you had to say what ethics meant to you, how would you sum it up?
 2. “[I]t is of the greatest practical importance not to make [moral] principles dependent upon the special nature of human reason . . . but instead, just because moral laws are to hold for every rational being as such, to derive them from the universal concept of a rational being as such, and in this way to set forth completely the whole of morals, which needs anthropology for its application to human beings” (Kant, *Groundwork* 4:411–12). Explain and assess.
-3. To what extent does traditional moral theory reflect “the perspective of men from the professional, administrative, and managerial classes” (Jaggar, p. 183)?
+3. “[In the 1970s] mainstream ethics began to look very different: there
+   was a dramatic turn in what could be done by academic philosophers
+   under the name ‘ethics.’ The turn was due to the Vietnam War, which
+   affected campuses across the country. Many moral philosophers came
+   to believe that they had been at fault for failing to take concrete moral
+   issues generally as seriously as they should have. Philosophers interested
+   in ethics began publishing papers on topics that the standard philosophy
+   journals had never published papers on before—we wrote on topics such
+   as abortion, just war, the right to privacy, self-defense, and affirmative
+   action and preferential hiring and the rights of women and minorities more generally” (Judith Jarvis Thomson, BC ’50). Discuss.
+4. To what extent does traditional moral theory reflect “the perspective of men from the professional, administrative, and managerial classes” (Jaggar, p. 183)?
