@@ -71,5 +71,5 @@ module: "Assignments & exams"
    in ethics began publishing papers on topics that the standard philosophy
    journals had never published papers on before—we wrote on topics such
    as abortion, just war, the right to privacy, self-defense, and affirmative
-   action and preferential hiring and the rights of women and minorities more generally” (Judith Jarvis Thomson, BC ’50). Discuss.
+   action and preferential hiring and the rights of women and minorities more generally. It was remarkable!” (Judith Jarvis Thomson, BC ’50) Discuss.
 4. To what extent does traditional moral theory reflect “the perspective of men from the professional, administrative, and managerial classes” (Jaggar, p. 183)?
