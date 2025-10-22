@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alison Jaggar, “Caring as a Feminist Practice”
+title: Midterm Exam
 module: "Assignments & exams"
 ---
 
