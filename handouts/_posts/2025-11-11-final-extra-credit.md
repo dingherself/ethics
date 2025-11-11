@@ -7,7 +7,7 @@ module: "Assignments & exams"
 *Due*: Monday, December 8, in hard copy, at the beginning of class\
 *Format*: 2–3 pages
 
-As we turn fully to socially-engaged ethics, I want to encourage you all to go out and engage with the incredible social history of New York City. Please visit one of the museums/exhibitions suggested below and reflect on two of the most interesting (surprising, challenging, inspiring, frustrating, etc.) things you learned from it.
+As we turn fully to socially-engaged ethics, I want to encourage you all to go out and engage with the incredible social history of New York City. Please visit one of the museums/exhibitions suggested below and reflect on two of the most interesting (surprising, challenging, inspiring, frustrating, etc.) things you learned from it. This extra credit assignment will contribute up to 3% to your final exam.
 
 *Check the hours ahead of time and remember to bring your Barnard/Columbia student ID!*
 
