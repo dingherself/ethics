@@ -22,7 +22,7 @@ Testimonial exchange: You ask me where the train station is -> I give you an ans
 - This can go wrong epistemically (e.g., you misjudge my credibility).
 - It can also go wrong morally (e.g., you judge me to be less credible for racist reasons).
 
-Fricker’s example: In *To Kill a Mockingbird*, Tom Robinson, who’s accused of raping a white girl (the story clearly indicates that Robinson is innocent), is not believed by the jury due to the social meaning of him being a Black man in Alabama in .
+Fricker’s example: In *To Kill a Mockingbird*, Tom Robinson, who’s accused of raping a white girl (the story clearly indicates that Robinson is innocent), is not believed by the jury due to the social meaning of him being a Black man in Alabama."
 
 - Credibility deficits are not inherently unjust (e.g., you’ll want to discount the testimony of a flatearther when it comes to the shape of the earth).
 - The injustice arises from a prejudicial exercise of what Fricker calls *identity power*: Robinson is assigned less credibility than is due because of a prejudice on the hearers’ part based on Robinson’s social identity, which reflects the hierarchical power of white people over Black people.
