@@ -68,4 +68,4 @@ The cover letter is an invitation to reflect on the comments received (what do y
 
 ## Assessment
 
-Term papers will be evaluated based on the extent to which the paper demonstrates your ability to understand the material discussed, to present the relevant argument clearly, accurately, and thoughtfully to a non-specialist audience, to charitably but critically assess that argument, and to defend your own view by oﬀering your own reasoned argument.
+Term papers will be evaluated based on the extent to which the paper demonstrates your ability to understand the materials discussed, to present existing ideas and arguments in the literature clearly, accurately, and thoughtfully to a non-specialist audience, to charitably but critically assess those ideas and arguments, and to defend your own view by oﬀering your own argument.
