@@ -12,7 +12,7 @@ As we turn fully to socially-engaged ethics, I want to encourage you all to go o
 *Check the hours ahead of time and remember to bring your Barnard/Columbia student ID!*
 
 - [Museum of the City of New York](https://www.mcny.org/) (\$14 for students; pay-as-you-can for NYC residents with ID; free on Wednesdays)
-- [Museum of Reclaimed Urban Space](https://morusnyc.org/) (\$5 suggested donation)
+- [Museum of Reclaimed Urban Space](https://morusnyc.org/) (\$5 suggested donation; 90-minute East Village history walking tours on weekends at 3pm, \$25)
 - [Barnard Digital Collections](https://digitalcollections.barnard.edu/exhibits) (online exhibitions, free)
 - [New York Transit Museum](https://www.nytransitmuseum.org/) (\$10, no student discount)
 - [New York Historical Society](https://www.nyhistory.org/) (\$13 for students; pay-as-you-can from 5–8 pm on Fridays; free tours at 1:00 and 2:30 pm)
