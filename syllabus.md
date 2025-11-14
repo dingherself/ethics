@@ -4,7 +4,7 @@ title: Syllabus
 navtitle: Syllabus
 group: syllabus
 order: 5
-date: 2025-08-29
+date: 2025-11-13
 ---
 
 <h2 class="mt-0" style="position:absolute; visibility: hidden;">Course Information</h2>
@@ -124,7 +124,7 @@ The better of your two exams will account for 25% of your final grade, and the o
 
 ### Scaffolded term paper
 
-You are required to draft and revise a term paper for this course; you will also be asked to provide peer feedback on two of your classmates’ drafts and to complete scaffolded writing exercises along the way. I will circulate instructions and prompts ahead of time.
+You are required to draft and revise a term paper for this course; you will also be asked to provide peer feedback on your classmates’ drafts and to complete scaffolded writing exercises along the way. I will circulate instructions and prompts ahead of time.
 
 The term paper assignment as a whole will make up 25% of your final grade.
 
