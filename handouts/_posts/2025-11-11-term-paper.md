@@ -60,7 +60,7 @@ If you are concerned about the dynamics of your assigned writing group, please l
 ## Revision (Graded)
 
 *Due*: Friday, December 19, by midnight, to CourseWorks.\
-*Format*: 1,500–2,000 words (excluding bibliography), along with a 1-page, single-spaced cover letter.
+*Format*: 1,500–2,000 words (excluding bibliography), along with a 1-page, single-spaced cover letter addressed to me.
 
 Please revise your paper in light of your own critical assessment of the feedback you’ve received. Revision does not mean simply changing a few words here and there; create a new document in your favorite word processor and start afresh. Of course, you can and should recycle language from your previous drafts, but you should do so critically and selectively—think carefully about what a passage adds to the present draft, find creative ways to adapt old language for new purposes, and don’t be afraid to decide when it’s best to rewrite a passage from scratch.
 
