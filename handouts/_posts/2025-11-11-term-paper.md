@@ -66,7 +66,7 @@ Please revise your paper in light of your own critical assessment of the feedbac
 
 The cover letter is an invitation to reflect on the comments received (what do you find helpful and what not so much, and why or why not?) and discuss how they have shaped the revision (this is also the place to discuss feedback that you’ve decided not to adopt). If you feel comfortable doing so, I encourage you to share what you think of the revision yourself—what problems have been especially challenging, what are you proud of, and perhaps what do you still find unsatisfying? (Being conscious and critical of your own writing is an overall beneficial skill to acquire as a writer, and it will not negatively affect your grade!)
 
-Integral to scholarship is the acknowledgment of all the feedback, assistance, and support that have shaped and contributed to your thinking and writing. You can do this by including an “Acknowledgments” section and/or placing footnotes at the specific places where you have been helped; consult the more recent papers we’ve read for examples. (Though you don’t need to thank me for comments or suggestions! I’m just happy to help &#128522;.)
+Integral to scholarship is the acknowledgment of all the feedback, assistance, and support that have shaped and contributed to our thinking and writing. You can do this by including an “Acknowledgments” section and/or placing footnotes at the specific places where you have been helped; consult the more recent papers we’ve read for examples. (Though you don’t need to thank me for comments or suggestions! I’m just happy to help &#128522;.)
 
 ## Assessment
 
