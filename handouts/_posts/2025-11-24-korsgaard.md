@@ -54,7 +54,7 @@ Can governments fail to express the general will?
     - Majority rule has to have been agreed to by all.
     - (Does the dictator not also have a moral duty to rebel?)
 - The upshot:
-  - Revolution sends us back to the state of nature; it by definition cannot be just.
+  - Revolution sends us back to the state of nature; by definition revolutions cannot be just.
   - We should not pretend that it is: It’s okay to *get rid of* the dictator, but not try him and *execute* him according to law; that would be a mockery of justice.
   - The autonomy analogy: Sometimes it’s necessary to take away somebody’s autonomy in order to preserve it; the revolutionary finds themself in a situation where they feel compelled to “leave the moral law behind” in order to preserve morality (pp. 258–59).
   - But when you step outside of morality, you must accept its consequences, including what happens when you fail.
