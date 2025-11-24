@@ -69,3 +69,4 @@ How about a real case study?
 
 - [*Shinn v. Ramirez*](https://github.com/dingherself/phil-324/blob/main/case-discussions.md#relief-for-wrongful-convictions-modules-34) (2022)
 - [Oral argument](https://www.oyez.org/cases/2021/20-1009): Arizona’s Solicitor General argued that “actual innocence” was not enough for post-conviction relief.
+- *Of course* there are limits on the authoritativeness of procedures?
