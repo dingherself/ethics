@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final Exam"
-module: "Exams & assignments"
+module: "Assignments & exams"
 ---
 
 ## Logistics
