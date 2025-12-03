@@ -7,7 +7,6 @@ module: "Assignments & exams"
 ## Logistics
 
 - The final exam will be of the same format as the midterm, except we will have more time: **Monday, December 15, 1:10–3:10pm, in Milbank Hall 328**.
-  
 - A **comprehensive** version of your course lexicon is due in hard copy at the end of the exam.
 - If you have accessibility needs, please don’t be afraid to discuss them with me. You are also welcome to take the exam with CARDS or Columbia’s disability services, and please reach out if you need help with the logistics.
 
