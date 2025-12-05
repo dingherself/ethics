@@ -45,7 +45,7 @@ The rough draft does not need to be complete (for example, feel free to use plac
 ## Peer Feedback (Graded)
 
 *Due*: Friday, December 12, by midnight, to CourseWorks.\
-*Format*: 1-page letter, single-spaced.
+*Format*: 1-page letter along with the annotated draft for each classmate in your writing group.
 
 I will divide the class into small writing groups. Please read and comment on the drafts of the other members of your writing group.
 
