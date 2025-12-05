@@ -13,7 +13,7 @@ One last thing, the finals are scrambling my schedule:
 
 - I’ll still have my regular office hours this upcoming Monday, December 8.
 - On Wednesday the 10th, I have a conflict but can meet by appointment after 1:45-ish.
-- I may have time to meet on Thursday the 11th, though I’m not sure yet -- just email me!
+- I may have time to meet on Thursday the 11th, though I’m not sure yet—just email me!
 
 I hope the end of the semester is being kind to all of you! Happy writing, and please don’t forget to find some time to recharge and take care of yourself.
 
