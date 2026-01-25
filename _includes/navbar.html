@@ -40,13 +40,8 @@
 {%- assign pages_list = site.pages -%}
 {%- assign group = 'navigation' -%}
 {% include pages_list.html %}
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Resources</a>
-              <ul class="dropdown-menu">
-{%- assign pages_list = site.pages -%}
-{%- assign group = 'resources' -%}
-{% include resources_list.html %}
-              </ul>
+            <li class="nav-item">
+              <a class="nav-link" href="https://resources.dingherself.com">Resources</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dark Theme</a>
