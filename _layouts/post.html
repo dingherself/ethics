@@ -2,8 +2,10 @@
 layout: default
 ---
 
+<p class="d-none d-print-flex">Ding (<a href="{{ page.url }}">{{ site.url }}{{ page.url }}</a>)</p>
+
 {%- if page.categories %}
-<nav class= aria-label="breadcrumb">
+<nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     {%- capture category_name -%}{{ page.categories | escape | split: ', ' | first | remove: '[&quot;' | remove: '&quot;]' }}{%- endcapture -%}
     <li class="breadcrumb-item"><small class="text-body-secondary"><a href="{{ category_name | append: '.html' | relative_url }}">{{ category_name | capitalize | smartify}}</a></small></li>
